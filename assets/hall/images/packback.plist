@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_chooseframe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,171},{132,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,132}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_boxbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{168,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{168,168}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_word_fj_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,375},{66,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{66,33}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_word_gm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,546},{85,41}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,42}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_word_qrcs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,305},{148,43}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{148,44}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_word_zs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,455},{89,42}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{90,42}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_word_dhjl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,455},{146,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{148,44}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_zd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,375},{59,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{59,30}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_words_bb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,305},{68,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,35}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_btn_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,603},{73,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{73,53}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_minus.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,589},{29,11}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,30}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/packback/bag_pic_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{82,305},{29,29}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,30}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>packback.png</string>
+			<key>realTextureFileName</key>
+			<string>packback.png</string>
+			<key>size</key>
+			<string>{170,677}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>170</integer>
+			<key>height</key>
+			<integer>677</integer>
+		</dict>
+	</dict>
+</plist>

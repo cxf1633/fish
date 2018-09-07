@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/plist/effect_bullet_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,570},{39,101}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{37,872},{28,91}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{39,770},{33,71}}</string>
+				<key>offset</key>
+				<string>{3,8}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{39,843},{24,94}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,673},{38,95}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,472},{42,96}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,369},{42,101}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,161},{42,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,971},{27,95}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,872},{34,97}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,265},{42,102}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,770},{36,100}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,102}</string>
+			</dict>
+			<key>games/fish/assets/plist/effect_bullet_superpos_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{62,158}}</string>
+				<key>offset</key>
+				<string>{1,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,195}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bullet.png</string>
+			<key>realTextureFileName</key>
+			<string>bullet.png</string>
+			<key>size</key>
+			<string>{134,999}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>134</integer>
+			<key>height</key>
+			<integer>999</integer>
+		</dict>
+	</dict>
+</plist>

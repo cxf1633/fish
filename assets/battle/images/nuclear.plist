@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_bomb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{692,806},{122,162}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,162}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_plane.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,894},{102,119}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,120}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_range.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,584},{250,248}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{250,250}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_range_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,584},{160,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,160}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_range_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{580,581}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{600,600}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_sight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{489,894},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_pic_sight_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,958},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,732},{291,72}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{292,72}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,834},{382,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{382,122}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,746},{305,72}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{306,72}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{415,584},{305,72}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{306,72}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_22.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{415,658},{305,72}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{306,72}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/nuclear/nuclear_tips_23.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,820},{305,72}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{306,72}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>nuclear.png</string>
+			<key>realTextureFileName</key>
+			<string>nuclear.png</string>
+			<key>size</key>
+			<string>{852,1023}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>852</integer>
+			<key>height</key>
+			<integer>1023</integer>
+		</dict>
+	</dict>
+</plist>

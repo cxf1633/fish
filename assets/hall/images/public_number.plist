@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/hall/images/public_number/wx_bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{943,1},{70,507}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,507}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_bg_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,1},{352,436}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{352,436}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_btn_fz_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{856,659},{84,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{84,80}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_btn_fz_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{902,666},{84,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,80}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_text_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,355},{323,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{323,89}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_text_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{502,404}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{502,404}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_title_bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{921,510},{154,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{154,62}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_title_bg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{856,355},{302,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{302,63}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/wx_title_gzh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{985,510},{126,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,31}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/public_number/QRCode.jpg</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,355},{258,258}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{258,258}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>public_number.png</string>
+			<key>realTextureFileName</key>
+			<string>public_number.png</string>
+			<key>size</key>
+			<string>{1017,744}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1017</integer>
+			<key>height</key>
+			<integer>744</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_bg_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{369,1},{220,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,104}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,550},{260,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{260,230}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_bg_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{369,223},{88,210}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{88,210}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_bill.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,435},{96,63}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,112}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_pic_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{475,1},{30,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,250}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_pic_dhjl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,253},{179,44}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,44}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_pic_dqyy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,337},{113,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,26}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/exchange_pic_sjhm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{459,434},{114,27}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{114,28}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{366,334}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{366,334}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_brow_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{488,462},{16,15}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,15}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_brow_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{488,434},{26,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{27,19}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_eyes1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,337},{72,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,77}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_eyes2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,365},{35,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{35,67}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_eyes3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,416},{57,63}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,64}</string>
+			</dict>
+			<key>games/fish/assets/hall/images/phone_charges/fr_fish_2_eyes4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,481},{41,57}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,58}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>phone_charges.png</string>
+			<key>realTextureFileName</key>
+			<string>phone_charges.png</string>
+			<key>size</key>
+			<string>{508,811}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>508</integer>
+			<key>height</key>
+			<integer>811</integer>
+		</dict>
+	</dict>
+</plist>

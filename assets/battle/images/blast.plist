@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/fish/assets/battle/images/effect/blast1_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1727,523},{308,331}}</string>
+				<key>offset</key>
+				<string>{4,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,367},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1279,692},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1631,856},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,382},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{830,719},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1182,1044},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1534,1208},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast1_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,407},{317,318}}</string>
+				<key>offset</key>
+				<string>{-4,-14}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1886,1208},{144,160}}</string>
+				<key>offset</key>
+				<string>{-4,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{331,734},{220,205}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1765,270},{276,251}}</string>
+				<key>offset</key>
+				<string>{-7,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,726},{328,295}}</string>
+				<key>offset</key>
+				<string>{-5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1355,358},{370,332}}</string>
+				<key>offset</key>
+				<string>{-1,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1355,1},{408,355}}</string>
+				<key>offset</key>
+				<string>{1,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,1},{426,364}}</string>
+				<key>offset</key>
+				<string>{-2,-21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,1},{447,379}}</string>
+				<key>offset</key>
+				<string>{-5,-29}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast2_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{475,404}}</string>
+				<key>offset</key>
+				<string>{-2,-32}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,500}</string>
+			</dict>
+			<key>games/fish/assets/battle/images/effect/blast3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1765,1},{273,267}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,300}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>blast.png</string>
+			<key>realTextureFileName</key>
+			<string>blast.png</string>
+			<key>size</key>
+			<string>{2047,1559}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2047</integer>
+			<key>height</key>
+			<integer>1559</integer>
+		</dict>
+	</dict>
+</plist>
